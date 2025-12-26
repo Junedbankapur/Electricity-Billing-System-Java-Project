@@ -1,0 +1,10 @@
+# Java & IDE related files
+*.class
+*.iml
+.idea/
+out/
+target/
+
+# OS/System files
+.DS_Store
+Thumbs.db
